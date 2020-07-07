@@ -1,0 +1,66 @@
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\waelk\OneDrive - Microsoft\Consulting\WorkShops\Blazor\Demos\Module10\Security\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\waelk\Desktop\Security\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\waelk\Desktop\Security\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache

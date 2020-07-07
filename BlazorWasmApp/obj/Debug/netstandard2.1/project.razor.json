@@ -1,0 +1,12 @@
+{
+  "FilePath": "c:\\Users\\waelk\\Desktop\\Security\\BlazorWasmApp\\BlazorWasmApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [
+      {
+        "Kind": "Components.Component",
+        "Name": "Blazor

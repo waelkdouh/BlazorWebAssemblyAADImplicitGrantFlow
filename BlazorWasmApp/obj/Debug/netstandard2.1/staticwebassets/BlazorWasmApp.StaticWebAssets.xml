@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\waelk\Desktop\Security\BlazorWasmApp\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\waelk\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Microsoft.Authentication.WebAssembly.Msal" Path="C:\Users\waelk\.nuget\packages\microsoft.authentication.webassembly.msal\3.2.0\build\..\staticwebassets\" />
+</StaticWebAssets>
