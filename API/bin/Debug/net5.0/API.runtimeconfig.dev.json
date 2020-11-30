@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\waekdo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\waekdo\\.nuget\\packages"
+    ]
+  }
+}

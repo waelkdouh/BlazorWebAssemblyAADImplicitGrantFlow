@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\waelk\\Desktop\\Security\\API\\API.csproj": {}
+    "C:\\Users\\waekdo\\Desktop\\BlazorWebAssemblyAADImplicitGrantFlow\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\waelk\\Desktop\\Security\\API\\API.csproj": {
+    "C:\\Users\\waekdo\\Desktop\\BlazorWebAssemblyAADImplicitGrantFlow\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\waelk\\Desktop\\Security\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\waekdo\\Desktop\\BlazorWebAssemblyAADImplicitGrantFlow\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\waelk\\Desktop\\Security\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\waelk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\waelk\\Desktop\\Security\\API\\obj\\",
+        "projectPath": "C:\\Users\\waekdo\\Desktop\\BlazorWebAssemblyAADImplicitGrantFlow\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waekdo\\Desktop\\BlazorWebAssemblyAADImplicitGrantFlow\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\waelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\waekdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,11 +37,30 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -61,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
